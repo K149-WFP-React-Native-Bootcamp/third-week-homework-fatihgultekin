@@ -1,3 +1,6 @@
-## shopping_App
+# Third Week HomeWork
 
-<img src="./src/image/shopping1.png" width="300"> <img src="./src/image/shopping2.png" width="300"> <img src="./src/image/shopping3.png" width="300"> <img src="./src/image/shopping4.png" width="300">
+## For Login: 
+[username:"donero", password:"ewedon"]
+
+![week3](https://user-images.githubusercontent.com/81578763/202924972-3f2edc60-17f5-4bb4-aa44-5a8c10d319e5.jpg)
